@@ -21,7 +21,7 @@ This is a Flutter application that fetches a list of posts from a public API and
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/senipatel/seni_patel_knovator_task.git
    ```
 2. Navigate to the project directory:
    ```bash
