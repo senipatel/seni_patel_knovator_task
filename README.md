@@ -5,10 +5,10 @@ This is a Flutter application that fetches a list of posts from a public API and
 ## Features
 
 - Fetches posts from the JSONPlaceholder API.
+- [Dummy API](https://jsonplaceholder.typicode.com/posts)
 - Displays a list of posts with titles and countdown timers.
-- Each post has a 60-second countdown timer.
+- Each post has a Random-second countdown timer(etc 10,15,20,25).
 - Tapping a post marks it as "read" and navigates to a detail screen.
-- Timers are managed efficiently with a single periodic timer.
 
 ## Getting Started
 
